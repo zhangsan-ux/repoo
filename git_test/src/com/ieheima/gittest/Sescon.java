@@ -8,4 +8,7 @@ public class Sescon {
         System.out.println("hello sescon!");
         //hello
     }
+    public void qqqq(){
+        System.out.println("你好");
+    }
 }
