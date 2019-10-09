@@ -6,5 +6,6 @@ package com.ieheima.gittest;
 public class Sescon {
     public static void main(String[] args) {
         System.out.println("hello sescon!");
+        //hello
     }
 }
